@@ -28,7 +28,6 @@ Labelled each person with a bounding box.
 Trained a YOLO model on the labelled photos using machine learning.
 Tested the model on images it had never seen.
 
-Classes detected: [name1], [name2], [name3] (replace with your own)
 
 What is object detection?
 
